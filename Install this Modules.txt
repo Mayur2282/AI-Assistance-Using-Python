@@ -1,0 +1,19 @@
+Install this modules to run Jarvis
+
+import pyttsx3
+import speech_recognition as sr
+import datetime
+import wikipedia
+import webbrowser
+import os
+from requests import get
+import pywhatkit as kit
+import sys
+import cv2
+import random
+import pyautogui
+import psutil
+import speedtest
+from pywikihow import search_wikihow
+import requests
+from bs4 import BeautifulSoup
